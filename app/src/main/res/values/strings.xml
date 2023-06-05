@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PetCare</string>
+
+    <string-array name="station">
+        <item>請選擇類別</item>
+        <item>飲食</item>
+        <item>醫療</item>
+        <item>生活用品</item>
+        <item>玩具</item>
+    </string-array>
+</resources>
